@@ -9,13 +9,11 @@ I'm **Safety Knowledge** — a curious mind exploring **Computer Science**, **Da
 
 ---
 
-### 🎨 Header Image
-A visual that reflects my tech vibe:  
-
 <picture>
   <img src="https://github.com/safetyknowledge/SafetyKnowledge/raw/8b3f5dfa6a635220370ee07d9611de34c103af46/MyAvatar.png" align="left" width="35%" alt="Header Image">
 </picture>
 
+<br>
 
 ### 🌐 Connect with Me (Not yet, but When I'm Ready)
 Find my work, socials, and blog:  
@@ -23,6 +21,8 @@ Find my work, socials, and blog:
 [![Portfolio](https://img.shields.io/badge/-Portfolio-943be7?style=for-the-badge&logo=link&logoColor=white)](https://your-portfolio-link)  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)  
 [![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://your-blog)
+
+<br><br><br><br>
 
 ---
 
@@ -49,6 +49,8 @@ Tracking progress, streaks, and language usage:
 Always open to ideas, collabs, or tech chats!  
 
 #### Reach out and say hi!  
-<img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="35" height="35"/>
+<img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" align="left" width="60" height="60"/>
+
+<br><br><br>
 
 ##### Personal GitHub Profile Cover — © 2025 safetyknowledge, private content, not for reuse
