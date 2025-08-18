@@ -1,9 +1,12 @@
 # Hello World! 👋  
 
-I'm **Safety Knowledge** — a curious mind exploring **Computer Science**, **Data Analytics**, and **creative tech solutions**. Passionate about building and colaborating.
+I'm **Safety Knowledge** 
+<br>
+A curious mind exploring **Computer Science**, **Data Analytics**, and **creative tech solutions**.
+<br>
+Passionate about building and colaborating.
 
-
-<p align="right">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=safetyknowledge&abbreviated=true&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="safetyknowledge" />
 </p>
 
