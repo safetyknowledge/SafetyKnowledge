@@ -2,9 +2,8 @@
 
 I'm **Safety Knowledge** — a curious mind exploring **Computer Science**, **Data Analytics**, and **creative tech solutions**. Passionate about building and colaborating.
 
----
 
-<p align="top">
+<p align="right">
   <img src="https://komarev.com/ghpvc/?username=safetyknowledge&abbreviated=true&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="safetyknowledge" />
 </p>
 
@@ -14,12 +13,11 @@ I'm **Safety Knowledge** — a curious mind exploring **Computer Science**, **Da
 A visual that reflects my personality, creativity, and tech vibe:  
 
 <picture>
-  <img src="https://github.com/safetyknowledge/safetyknowledge/assets/your-image-id" align="right" width="35%" alt="Header Image">
+  <img src="https://github.com/safetyknowledge/SafetyKnowledge/raw/8b3f5dfa6a635220370ee07d9611de34c103af46/MyAvatar.png" align="left" width="35%" alt="Header Image">
 </picture>
 
----
 
-### 🌐 Connect with Me
+### 🌐 Connect with Me (Not yet, but When I'm Ready)
 Find my work, socials, and blog:  
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-943be7?style=for-the-badge&logo=link&logoColor=white)](https://your-portfolio-link)  
@@ -44,13 +42,6 @@ Tracking progress, streaks, and language usage:
 
 <img src="https://streak-stats.demolab.com/?user=safetyknowledge&theme=dark&mode=weekly" />  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=safetyknowledge&layout=compact&theme=jolly" />  
-
----
-
-### 🧁 Fun Touches
-Bring your profile to life with animations:  
-
-<img src="https://media.giphy.com/media/L8A2CLpJJW5d3NR5Tt/giphy.gif" width="22%" />  
 
 ---
 
