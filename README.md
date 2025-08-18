@@ -10,7 +10,7 @@ I'm **Safety Knowledge** — a curious mind exploring **Computer Science**, **Da
 ---
 
 ### 🎨 Header Image
-A visual that reflects my personality, creativity, and tech vibe:  
+A visual that reflects my tech vibe:  
 
 <picture>
   <img src="https://github.com/safetyknowledge/SafetyKnowledge/raw/8b3f5dfa6a635220370ee07d9611de34c103af46/MyAvatar.png" align="left" width="35%" alt="Header Image">
