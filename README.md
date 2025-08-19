@@ -13,7 +13,7 @@ Passionate about building and colaborating.
 ---
 
 <picture>
-  <img src="https://github.com/safetyknowledge/SafetyKnowledge/raw/8b3f5dfa6a635220370ee07d9611de34c103af46/MyAvatar.png" align="left" width="35%" alt="Header Image">
+  <img src="https://github.com/safetyknowledge/SafetyKnowledge/raw/c7e44e1391369e51d1f7950fc93d5e85d880f33c/Avatar.jpg" align="left" width="28%" alt="Header Image">
 </picture>
 
 <br>
